@@ -1,97 +1,35 @@
 {
-  "newsfeeds": [
-    {
-      "mlb": "http://mlb.mlb.com/partnerxml/gen/news/rss/mlb.xml"
-    },
-    {
-      "ana": "http://mlb.mlb.com/partnerxml/gen/news/rss/ana.xml"
-    },
-    {
-      "hou": "http://mlb.mlb.com/partnerxml/gen/news/rss/hou.xml"
-    },
-    {
-      "oak": "http://mlb.mlb.com/partnerxml/gen/news/rss/oak.xml"
-    },
-    {
-      "tor": "http://mlb.mlb.com/partnerxml/gen/news/rss/tor.xml"
-    },
-    {
-      "cle": "http://mlb.mlb.com/partnerxml/gen/news/rss/cle.xml"
-    },
-    {
-      "sea": "http://mlb.mlb.com/partnerxml/gen/news/rss/sea.xml"
-    },
-    {
-      "bal": "http://mlb.mlb.com/partnerxml/gen/news/rss/bal.xml"
-    },
-    {
-      "tex": "http://mlb.mlb.com/partnerxml/gen/news/rss/tex.xml"
-    },
-    {
-      "tb": "http://mlb.mlb.com/partnerxml/gen/news/rss/tb.xml"
-    },
-    {
-      "bos": "http://mlb.mlb.com/partnerxml/gen/news/rss/bos.xml"
-    },
-    {
-      "kc": "http://mlb.mlb.com/partnerxml/gen/news/rss/kc.xml"
-    },
-    {
-      "det": "http://mlb.mlb.com/partnerxml/gen/news/rss/det.xml"
-    },
-    {
-      "min": "http://mlb.mlb.com/partnerxml/gen/news/rss/min.xml"
-    },
-    {
-      "cws": "http://mlb.mlb.com/partnerxml/gen/news/rss/cws.xml"
-    },
-    {
-      "nyy": "http://mlb.mlb.com/partnerxml/gen/news/rss/nyy.xml"
-    },
-    {
-      "atl": "http://mlb.mlb.com/partnerxml/gen/news/rss/atl.xml"
-    },
-    {
-      "mil": "http://mlb.mlb.com/partnerxml/gen/news/rss/mil.xml"
-    },
-    {
-      "stl": "http://mlb.mlb.com/partnerxml/gen/news/rss/stl.xml"
-    },
-    {
-      "chc": "http://mlb.mlb.com/partnerxml/gen/news/rss/chc.xml"
-    },
-    {
-      "ari": "http://mlb.mlb.com/partnerxml/gen/news/rss/ari.xml"
-    },
-    {
-      "la": "http://mlb.mlb.com/partnerxml/gen/news/rss/la.xml"
-    },
-    {
-      "sf": "http://mlb.mlb.com/partnerxml/gen/news/rss/sf.xml"
-    },
-    {
-      "mia": "http://mlb.mlb.com/partnerxml/gen/news/rss/mia.xml"
-    },
-    {
-      "nym": "http://mlb.mlb.com/partnerxml/gen/news/rss/nym.xml"
-    },
-    {
-      "was": "http://mlb.mlb.com/partnerxml/gen/news/rss/was.xml"
-    },
-    {
-      "sd": "http://mlb.mlb.com/partnerxml/gen/news/rss/sd.xml"
-    },
-    {
-      "phi": "http://mlb.mlb.com/partnerxml/gen/news/rss/phi.xml"
-    },
-    {
-      "pit": "http://mlb.mlb.com/partnerxml/gen/news/rss/pit.xml"
-    },
-    {
-      "cin": "http://mlb.mlb.com/partnerxml/gen/news/rss/cin.xml"
-    },
-    {
-      "col": "http://mlb.mlb.com/partnerxml/gen/news/rss/col.xml"
-    }
-  ]
+  "newsfeeds": {
+    "mlb": "http://mlb.mlb.com/partnerxml/gen/news/rss/mlb.xml",
+    "ana": "http://mlb.mlb.com/partnerxml/gen/news/rss/ana.xml",
+    "hou": "http://mlb.mlb.com/partnerxml/gen/news/rss/hou.xml",
+    "oak": "http://mlb.mlb.com/partnerxml/gen/news/rss/oak.xml",
+    "tor": "http://mlb.mlb.com/partnerxml/gen/news/rss/tor.xml",
+    "cle": "http://mlb.mlb.com/partnerxml/gen/news/rss/cle.xml",
+    "sea": "http://mlb.mlb.com/partnerxml/gen/news/rss/sea.xml",
+    "bal": "http://mlb.mlb.com/partnerxml/gen/news/rss/bal.xml",
+    "tex": "http://mlb.mlb.com/partnerxml/gen/news/rss/tex.xml",
+    "tb": "http://mlb.mlb.com/partnerxml/gen/news/rss/tb.xml",
+    "bos": "http://mlb.mlb.com/partnerxml/gen/news/rss/bos.xml",
+    "kc": "http://mlb.mlb.com/partnerxml/gen/news/rss/kc.xml",
+    "det": "http://mlb.mlb.com/partnerxml/gen/news/rss/det.xml",
+    "min": "http://mlb.mlb.com/partnerxml/gen/news/rss/min.xml",
+    "cws": "http://mlb.mlb.com/partnerxml/gen/news/rss/cws.xml",
+    "nyy": "http://mlb.mlb.com/partnerxml/gen/news/rss/nyy.xml",
+    "atl": "http://mlb.mlb.com/partnerxml/gen/news/rss/atl.xml",
+    "mil": "http://mlb.mlb.com/partnerxml/gen/news/rss/mil.xml",
+    "stl": "http://mlb.mlb.com/partnerxml/gen/news/rss/stl.xml",
+    "chc": "http://mlb.mlb.com/partnerxml/gen/news/rss/chc.xml",
+    "ari": "http://mlb.mlb.com/partnerxml/gen/news/rss/ari.xml",
+    "la": "http://mlb.mlb.com/partnerxml/gen/news/rss/la.xml",
+    "sf": "http://mlb.mlb.com/partnerxml/gen/news/rss/sf.xml",
+    "mia": "http://mlb.mlb.com/partnerxml/gen/news/rss/mia.xml",
+    "nym": "http://mlb.mlb.com/partnerxml/gen/news/rss/nym.xml",
+    "was": "http://mlb.mlb.com/partnerxml/gen/news/rss/was.xml",
+    "sd": "http://mlb.mlb.com/partnerxml/gen/news/rss/sd.xml",
+    "phi": "http://mlb.mlb.com/partnerxml/gen/news/rss/phi.xml",
+    "pit": "http://mlb.mlb.com/partnerxml/gen/news/rss/pit.xml",
+    "cin": "http://mlb.mlb.com/partnerxml/gen/news/rss/cin.xml",
+    "col": "http://mlb.mlb.com/partnerxml/gen/news/rss/col.xml"
+  }
 }
