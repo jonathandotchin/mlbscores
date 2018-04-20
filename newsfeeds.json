@@ -1,5 +1,5 @@
 {
-  "newsfeed": [
+  "newsfeeds": [
     "http://mlb.mlb.com/partnerxml/gen/news/rss/mlb.xml",
     "http://mlb.mlb.com/partnerxml/gen/news/rss/ana.xml",
     "http://mlb.mlb.com/partnerxml/gen/news/rss/hou.xml",
